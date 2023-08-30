@@ -1,3 +1,13 @@
+# Arnav Grover's First CS193 Homework
+
+Doest mine own loveth f'r CS 193 needeth an explanation... yes it does, so here's why:
+- relevance of course content
+- learning through application
+- our amazing instructors!
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
